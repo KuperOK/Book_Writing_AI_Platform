@@ -1,2 +1,2 @@
-API_KEY = 'sk-...'
+API_KEY = '...'
 

@@ -3,11 +3,8 @@ import streamlit as st
 import openai as oai
 from openai import OpenAI
 import random
-# from streamlit.se
 
 oai.api_key = API_KEY
-# if 'apikey' not in st.secrets:
-#     st.secrets.apikey = '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'
 
 selected_options = {}
 if 'dic' not in st.session_state:
